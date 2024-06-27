@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../utils"
+		}
+	],
+	"settings": {
+		"python.defaultInterpreterPath": "/Users/pedro/Desktop/projects/venv_global/bin/python"
+	}
+}
